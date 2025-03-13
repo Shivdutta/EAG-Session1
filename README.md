@@ -1,4 +1,4 @@
-Cursor Chrome Extension Setup
+Cursor Chrome Extension Setup    https://www.youtube.com/watch?v=fpK_gFP_Nq4
 
     Step 1: Cursor Installation
 
